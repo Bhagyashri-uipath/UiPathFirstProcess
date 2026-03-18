@@ -1,0 +1,13 @@
+﻿{
+  "Name": "Chrome The QR Code Generator (TQRCG) Create F",
+  "Type": "Screen",
+  "Id": "6ujwQgzmm0GPsCv6x8T_pA",
+  "Reference": "kpO1TNsjIkCPpxf_uruxGg/6ujwQgzmm0GPsCv6x8T_pA",
+  "ParentRef": "kpO1TNsjIkCPpxf_uruxGg/F0IJu7VDD0qPggPp2iBpRQ",
+  "Created": "2026-01-10T19:19:39.7735856Z",
+  "Updated": "2026-01-10T19:19:39.7735856Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=25.10.24.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=25.10.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}
